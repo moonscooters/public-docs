@@ -1,3 +1,5 @@
+# Inventory App Privacy Policy
+
 **Privacy Policy**
 
 ERiders LLC built the Moon Inventory app as a Free app. This SERVICE is provided by ERiders LLC at no cost and is intended for use as is. Accounts for accessing this app will be provided as is and may be revoked at any time by ERiders LLC.
