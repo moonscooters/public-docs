@@ -48,6 +48,7 @@ We value your trust in providing us your Personal Information, thus we are striv
 **Permission**
 
 This app requires permission to access your device's camera, this is used only during the rental process to scan QR codes as well as taking a selfie. It is not used at any time besides the rental process.
+This app also requires permission for Bluetooth in order to control a scooter. This is not necessary unless you want to use the app to control your scooter, and is not used for anything other than this.
 
 **Links to Other Sites**
 
@@ -61,7 +62,7 @@ These Services do not address anyone under the age of 13. We do not knowingly co
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2022-11-21
+This policy is effective as of 2023-04-01
 
 **Contact Us**
 
