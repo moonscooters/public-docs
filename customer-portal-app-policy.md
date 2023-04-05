@@ -19,6 +19,7 @@ The app does use third-party services that may collect information used to ident
 Link to the privacy policy of third-party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [Stripe](https://stripe.com/privacy)
 
 **Log Data**
 
@@ -57,11 +58,17 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do the necessary actions.
 
+**Account Deletion**
+
+An account deletion request may be made at any time. When an account deletion request is made, we will permanently delete all data associated with the account within 30 days. This includes personal information, billing information, and any other data that may have been collected during the use of our services.
+
+However, it is important to note that if a user is in possession of one of our rentals at the time of the account deletion request, we will continue to retain their billing information and charge the subscription fee until the rental is returned. This is necessary in order to ensure that our rental services can continue to operate smoothly and protect our company assets.
+
 **Changes to This Privacy Policy**
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2022-11-21
+This policy is effective as of 2023-04-05
 
 **Contact Us**
 
