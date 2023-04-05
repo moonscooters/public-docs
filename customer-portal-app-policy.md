@@ -1,5 +1,5 @@
 # Moon Scooters App Privacy Policy
-## Last Updated 2023-04-05
+### Last Updated 2023-04-05
 
 **Privacy Policy**
 
