@@ -61,7 +61,7 @@ These Services do not address anyone under the age of 13. We do not knowingly co
 
 **Account Deletion**
 
-An account deletion request may be made at any time. When an account deletion request is made, we will permanently delete all data associated with the account within 30 days. This includes personal information, billing information, and any other data that may have been collected during the use of our services.
+An account deletion request may be made at any time. When an account deletion request is made, we will permanently delete all data associated with the account within 30 days. This includes personal information, billing information, and any other data that may have been collected during the use of our services, excluding anonymous usage data from rental scooters which will be kept for analytical purposes.
 
 However, it is important to note that if a user is in possession of one of our rentals at the time of the account deletion request, we will continue to retain their billing information and charge the subscription fee until the rental is returned. This is necessary in order to ensure that our rental services can continue to operate smoothly and protect our company assets.
 
