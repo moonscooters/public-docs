@@ -49,6 +49,7 @@ We value your trust in providing us your Personal Information, thus we are striv
 **Permission**
 
 This app requires permission to access your device's camera, this is used only during the rental process to scan QR codes as well as taking a selfie. It is not used at any time besides the rental process.
+This app also requires permission for Bluetooth in order to control a scooter. This is not necessary unless you want to use the app to control your scooter, and is not used for anything other than this.
 
 **Links to Other Sites**
 
