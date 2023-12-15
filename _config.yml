@@ -1,0 +1,11 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - customer-portal-app-policy.md
+  - customer-portal-app-terms.md
+  - inventory-app-policy.md
+  - inventory-app-terms.md
